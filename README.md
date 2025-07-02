@@ -7,6 +7,7 @@
 
 Hi, I’m Udayan Sawant – a Generative AI Engineer passionate about building intelligent systems that learn, adapt, and create. With 6+ years of experience at the intersection of Data Engineerg & AI, deep learning, and innovation, I design and deploy next-gen solutions that push the boundaries of what’s possible.
 
+
 🧠 LLM & Foundation Model Specialist: From fine-tuning large language models to orchestrating multimodal AI systems, I work with cutting-edge architectures to solve real-world problems. I build tailored GenAI applications that drive automation, personalization, and enhanced decision-making.
 
 🛠️ AI Systems Builder: Skilled in developing custom pipelines for model training, evaluation, and deployment. Leveraging tools like Hugging Face, LangChain, and vector databases - Elasticsearch, PineCone, I craft scalable solutions that integrate seamlessly with business workflows.
